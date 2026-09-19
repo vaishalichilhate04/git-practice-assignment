@@ -1,1 +1,3 @@
 First test change
+Unwanted change
+Mixed reset test
